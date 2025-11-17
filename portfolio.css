@@ -1,0 +1,158 @@
+* {
+   padding: 0;
+   margin: 0;
+}
+
+.container {
+   padding: 50px;
+  
+
+
+
+
+}
+
+body {
+   font-family: "Young Serif", serif;
+}
+
+
+
+.section-one {
+   color: white;
+   background-color: black;
+   padding: 20px;
+}
+
+.section-one__jobrole {
+   font-size: 30px;
+   margin-top: 10px;
+}
+
+.section-one__name {
+   font-size: 40px;
+}
+
+.section-one__desc {
+   background-color: orangered;
+   color: white;
+   text-decoration: none;
+   margin-top: 10px;
+   padding-right: 10px;
+   padding-left: 10px;
+   padding-top: 5px;
+   padding-bottom: 5px;
+   display: inline-block;
+}
+
+.section-one,
+.section-two,
+.section-three,
+.section-four,
+.section-five {
+   margin-top: 20px;
+   margin-left: 10px;
+}
+
+.section-two__desc,
+.section-three__desc,
+.section-four__desc
+.section-five__desc {
+   margin-top: 10px;
+   weight: 10px;
+
+}
+
+.section-three {
+   background-color: rgb(90, 93, 236);
+   padding-top: 20px;
+   padding-bottom: 20px;
+   padding-left: 15px;
+   padding-right: 15px;
+   display: inline-block;
+   height: 200px;
+   border-radius: 20px;
+   vertical-align: top;
+}
+
+.section-three__desc,
+.section-four__desc {
+   list-style: none;
+}
+
+.section-four {
+
+   background-color: orangered;
+   padding-top: 20px;
+   padding-bottom: 20px;
+   padding-left: 15px;
+   padding-right: 15px;
+   display: inline-block;
+   height: 200px;
+   border-radius: 20px;
+   width: 700px;
+   vertical-align: top;
+}
+
+.section-four__desc {
+   margin-top: 20px;
+
+}
+
+.section-five {
+   background-color: black;
+   color: white;
+   padding: 20px;
+   margin-left: 10px;
+   height: 60px;
+
+}
+
+.section-five__desc {
+   margin-top: 10px;
+}
+
+
+
+
+.section-form__input,
+.section-form__textarea,
+.section-form__submit {
+   margin-top: 10px;
+   margin-left:10px !important;
+  
+
+}
+
+.section-form__input {
+   padding: 10px;
+   border: none;
+   border-bottom: solid rgb(145, 134, 134) 1px;
+}
+
+.section-form__textarea {
+   padding: 10px;
+   border: none;
+   border: solid rgb(151, 146, 146) 1px;
+}
+
+.section-form__submit {
+   padding-left: 20px;
+   padding-right: 20px;
+   padding-top: 10px;
+   padding-bottom: 10px;
+   background-color: orangered;
+   border: none;
+}
+
+.section-five {
+   padding-left: 50px;
+}
+
+
+
+.section-form{
+   padding:10px;
+   
+   
+}
